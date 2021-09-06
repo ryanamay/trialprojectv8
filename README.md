@@ -19,5 +19,4 @@ Carl Malcolm B. Beltran - @-Corro- #0333
 
 ---------------------------------------------
 
-Word doc
-[Word](https://drive.google.com/drive/folders/1ZtZYePyNF24QdJEUVPpKwEVvOX2p7oRD?usp=sharing)
+[Word Document](https://drive.google.com/drive/folders/1ZtZYePyNF24QdJEUVPpKwEVvOX2p7oRD?usp=sharing)
