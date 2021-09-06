@@ -1,7 +1,7 @@
 # trialprojectv8
 Trial Project V8
 
-# Insert Game Name here
+# Bold
 ### Game design document
 ### Version 0.0.1
 
