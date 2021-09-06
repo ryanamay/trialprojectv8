@@ -3,7 +3,7 @@ Trial Project V8
 
 # Bold
 ### Game design document
-### Version 0.0.1
+### -
 
 Submitted by: Team **Malinis**
 
